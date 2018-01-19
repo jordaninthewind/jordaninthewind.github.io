@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Code Abode
 header-img: img/home-bg.png
 email: jordan.kline@gmail.com
 copyright_name: jordaninthewind
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Home is Where the Code Is
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jordaninthewind
