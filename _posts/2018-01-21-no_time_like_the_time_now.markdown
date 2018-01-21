@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "'No Time like the #{Time.now}.'"
-date:       2018-01-21 19:31:31 +0000
+date:       2018-01-21 14:31:32 -0500
 permalink:  no_time_like_the_time_now
 ---
 
@@ -14,4 +14,4 @@ The landscape has changed and now something that I had always thought of as out 
 
 Today, there are endless reasons why it’s wise to learn how to program. For job security in the coming world, for general usefulness (being able to automate parts of your life), for the superhuman abilities that come with ready access to more information and new ways of using that information programmatically, for positioning oneself in a way to grow with something that has become the forefront of modern civilization, for a cure to boredom — for fodder for the insatiably curious.
 
-So, I feel like I am making up for lost time, to some deep degree, with less guilt of having missed the earlier train. As my wife, who recently make a career change into coding, says ‘I would rather have been a painter in the Renaissance than in the Middle Ages.’ I’m not late, in fact, there is no time like the present; I am onboard and more excited than I have been in quite some time for something that promises to revolutionize my own life as much as it has the world at large.
+So, I feel like I am making up for lost time, to some deep degree, moving towards a goal without the guilt about having missed an earlier train. As my wife, who recently made a career change into coding, says ‘I would rather have been a painter in the Renaissance than in the Middle Ages.’ I’m not late, in fact, there is no time like the present; I am onboard and more excited than I have been in quite some time for something that promises to revolutionize my own life as much as it has the world at large.
