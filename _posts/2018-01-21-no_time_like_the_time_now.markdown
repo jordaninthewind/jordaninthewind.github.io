@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "'No Time like the #{Time.now}.'"
+title:      "No Time like the #{Time.now}."
 date:       2018-01-21 14:31:32 -0500
 permalink:  no_time_like_the_time_now
 ---
