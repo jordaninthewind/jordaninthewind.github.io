@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Structures -- Abstract Data Types and Data Structures"
-date:       2018-09-03 01:44:23 +0000
+date:       2018-09-02 21:44:24 -0400
 permalink:  data_structures_--_abstract_data_types_and_data_structures
 ---
 
@@ -11,21 +11,12 @@ The simplest explanation I've found is from StackExchange, 'ADT is to an interfa
 
 We've looked at data structures in my [last post](http://jordan-kline.com/data_structures_--_from_linked_list_to_heap), which looked at lists & linked lists. A linked list has methods that describe its shape and how we interact with it, but generally, does not give any information about what is happening under the hood. This is the basis of abstraction.
 
-### (Concrete) Data Structure
+We can think about a data structure as the physical implementation of a data type. It is a concretized version of an association of data. 
 
-Also known as a 'Data Structure', this is a representation of actual data as 'natively' supported by a language 
+ADTs are the idea of how the data is organized, the shape and the functionality without implementation... a way of presenting this information. ADTs don't have a relation to the specific features of a computer language; they are the 'the mathematical model of the data objects that make up a data type as well as the functions that operate on these objects'. ([Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type))
 
-To update:
-Static
-Dynamic
+And this means what exactly?
 
+Well, it's imporant to understand how and why we discuss these things and what exactly they mean in common parlance. When I have been asked in the past how to implement a queue or a stack, I have also asked what data structure this should be implemented with. That is still confusing to me because the languages that I have learned so far have some impact on how ADTs are implemented. In JS, you can implement a stack or a queue with an Array, but other languages have concrete data structures that can handle them better.
 
-### Abstract Data Type
-
-
-To Cite: 
-ADTs are a theoretical concept in computer science, used in the design and analysis of algorithms, data structures, and software systems, and do not correspond to specific features of computer languages.
-
-An abstract data type is defined as a mathematical model of the data objects that make up a data type as well as the functions that operate on these objects.
-
-
+More experience, more practice and a deeper understanding of what common data structures exist and why they are used, as well as the efficiency that comes along with using specific ADTs for specific tasks, but I've found that understanding the fundamental difference between the two will help prevent asking stupid questions during algorithm challenges and in general working with teams. It's most often the nuances that I make mistakes with confidently, never knowing they are mistakes.
