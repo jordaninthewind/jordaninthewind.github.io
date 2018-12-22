@@ -23,3 +23,6 @@ Read read read read read.
 The 'where' is present and the 'what', so you can begin by finding which line in which file you've gotten wrong. After that it's up to you to find the 'how' and the 'why'; these are logical issues now. Your error could be anything that you've done and therefore it's up to you to trace back your work, bringing everything out about why this code is your code. It's uncomfortable and refactoring can help, but there is nothing worse than wasting time by ignoring these.
 
 It took a lot of effort for me to feel comfortable tracing bugs, I'm realizing now, because I was never looking at the machine as a machine alone. There is something different about working with logic and a machine -- I've found that the more that I do it, the more I feel that the computer is a tool and that these logs are just logs. There is no ghost in the machine -- nothing magical happens here and nothing that opposes your immediate work. I would consider that growth, first, and there is an endless serving of that beyond this.
+
+(Updated 12/22/2018)
+Related: [The Commas That Cost Companies Millions](http://www.bbc.com/capital/story/20180723-the-commas-that-cost-companies-millions)
